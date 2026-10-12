@@ -27,7 +27,7 @@
                 <input type="submit" class="button" name="submit">
             </form>
         </div>
-        <h2 id="msg" style="text-align:center; color:red; display:none;">This Plug is already booked!</h2>
+        <h2 id="msg" style="text-align:center; color:red; display:none;">This Plug is already booked....!</h2>
     </div>
 </body>
 
