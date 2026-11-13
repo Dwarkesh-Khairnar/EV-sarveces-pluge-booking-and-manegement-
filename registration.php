@@ -69,6 +69,7 @@
             </form>
         </div>
     </div>
+	
     <script>
         function idproof() {
             document.getElementById("myfile").style.display = "inline";
